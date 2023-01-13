@@ -1,11 +1,10 @@
 Name = input("What is your name? ")
 print("Hi!" + Name)
 How_are_you = input("How do you doing? ")
-if How_are_you == ("im Good", "im good", "im fine", "im bad"):
-    print("\nNice, Shutdown the device ")
+print("\nNice, Shutdown the device ")
 
 import time
-time.sleep(5) # Sleep for 5 seconds
+time.sleep(4) # Sleep for 4 seconds
 print("\nSo you don't want to leave!! \nhmmmmmmmmmmm")
 
 time.sleep(3) # Sleep for 3 seconds
@@ -22,7 +21,7 @@ time.sleep(2) # Sleep for 2 seconds
 print("\nYou have " + random_num + "s to leave me in my worries")
 
 time.sleep(3) # Sleep for 3 seconds
-Fake_Q = input("wanna somthing else 😋😋 ????? ")
+Fake_Q = input("wanna somthing else 😋😋 ?????")
 
 print("i want to help you,\n but I am under development .. Good Bye")
 
