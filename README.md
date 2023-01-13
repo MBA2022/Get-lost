@@ -1,2 +1,2 @@
 # Get-lost
-This app is a simple game in style (not a game)
+This app is a simple game in style (no game)
